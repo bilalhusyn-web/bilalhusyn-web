@@ -2,7 +2,7 @@
 
 <!-- 🔥 PREMIUM FIRE HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,45:7A2E00,75:FF6A00,100:FFD000&text=Bilal%20Hussain041&fontSize=62&fontColor=FFD000&animation=fadeIn&fontAlignY=36&desc=Full+Stack+%7C+MERN+%7C+SaaS+%7C+Automation&descAlignY=58&descSize=18&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,45:7A2E00,75:FF6A00,100:FFD000&text=Bilal%20Hussain&fontSize=62&fontColor=FFD000&animation=fadeIn&fontAlignY=36&desc=Full+Stack+%7C+MERN+%7C+SaaS+%7C+Automation&descAlignY=58&descSize=18&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Building+Scalable+MERN+Applications;SaaS+%7C+CRM+%7C+AI+%7C+Automation;Turning+Ideas+Into+Production+Systems"/>
 
@@ -402,21 +402,33 @@ while (engineer.learn) {
 
 ---
 
+
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalhussain041&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FFD000&currStreakLabel=FF8C00&sideLabels=FF8C00&currStreakNum=FFD000&sideNums=FFB300"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalhusyn-web&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FFD000&currStreakLabel=FF8C00&sideLabels=FF8C00&currStreakNum=FFD000&sideNums=FFB300"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalhussain041&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFD000&text_color=E6EDF3&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalhusyn-web&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFD000&text_color=E6EDF3&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhussain041&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=E6EDF3&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalhusyn-web&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=E6EDF3&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bilalhussain041&theme=matrix&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bilalhusyn-web&theme=matrix&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bilalhusyn-web/bilalhusyn-web/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
