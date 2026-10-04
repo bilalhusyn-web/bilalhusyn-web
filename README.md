@@ -424,15 +424,7 @@ while (engineer.learn) {
 
 ---
 
-# 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bilalhusyn-web/bilalhusyn-web/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 # 🏆 Certifications
 
@@ -450,15 +442,6 @@ while (engineer.learn) {
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bilalhussain041/bilalhussain041/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 # 🌐 Let's Connect
 
